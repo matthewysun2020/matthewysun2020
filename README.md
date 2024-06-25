@@ -2,7 +2,7 @@
 - 👀 I’m interested in data analytics, front-end design, and AI.
 - 🌱 I’m currently learning Tensorflow and Keras!
 - 😄 Pronouns: He/Him/His (They/Them/Theirs okay)
-- ⚡ Fun fact: I am working on a personal project featuring image classification!
+- ⚡ Fun fact: I am working on a personal project featuring databases and tournament bracket generation!
 
 <!---
 matthewysun2020/matthewysun2020 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
